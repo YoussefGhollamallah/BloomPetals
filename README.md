@@ -8,5 +8,5 @@ ce projet est réalisé pendant ma période d'apprentissage à la plateforme en 
   | prochaine amélioration | date prévu | effectué |
   |--------- |:-----------:|--------------:|
   | la page entreprise | 8/11/2023 | |
-  |responsive | avant le 10/11/2023 | |
+  |responsive | 10/11/2023 | |
   
